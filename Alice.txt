@@ -1,2 +1,3 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 Um texto na segunda linha só como exemplo.
+Um texto na terceira linha só como exemplo.
